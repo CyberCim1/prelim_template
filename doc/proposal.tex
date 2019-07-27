@@ -1,0 +1,78 @@
+\documentclass[12pt]{article}
+
+\usepackage{graphics}
+\usepackage{epsfig}
+\usepackage{times}
+\usepackage{amsmath}
+\usepackage{booktabs} % For formal tables
+\usepackage{subcaption}
+\usepackage{algorithm2e}
+\usepackage{algorithmicx}
+\usepackage[noend]{algpseudocode}
+\usepackage{multirow}
+
+\bibliographystyle{IEEEtran}
+
+\graphicspath{ {Extras/images/} }
+
+%Optional Package to add PDF bookmarks and hypertext links
+\usepackage[pdftex,hypertexnames=false,linktocpage=true]{hyperref} 
+\hypersetup{colorlinks=true,linkcolor=blue,anchorcolor=blue,citecolor=blue,filecolor=blue,urlcolor=blue,bookmarksnumbered=true,pdfview=FitB}
+
+% The standard departmental thesis proposal format is the following:
+%        30 pages
+%        12 point type
+%        1 inch margins all around = 6.5   inch column
+%        (Total:  30 * 6.5   = 195 page-inches)
+%
+% For letter-size paper: 8.5 in x 11 in
+% Latex Origin is 1''/1'', so measurements are relative to this.
+
+\topmargin      0.0in
+\headheight     0.0in
+\headsep        0.0in
+\oddsidemargin  0.0in
+\evensidemargin 0.0in
+\textheight     9.0in
+\textwidth      6.5in
+\linespread{1.5}
+
+
+\newcommand{\todo}[1]{\textcolor{magenta}{{\sf (TODO: #1)}}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+%responsible for making a glossary of terms
+\usepackage[acronym,nonumberlist]{glossaries}
+\makenoidxglossaries % use TeX to sort
+
+%list of acryonms
+\newacronym{ai}{AI}{Allen Iverson}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\pagestyle{plain}
+\pagenumbering{roman}
+\include{Preface/titlepage}
+\pagebreak
+
+\include{Preface/abstract}
+\pagebreak
+
+\tableofcontents
+\pagebreak
+\cleardoublepage
+\pagenumbering{arabic}
+
+\include{Body/intro}
+\include{Body/relatedWork}
+\include{Body/phase1}
+\include{Body/phase2}
+\include{Body/phase3}
+\include{Body/timeline}
+\include{Body/conclusion}
+
+\include{Reference/nomenclature}
+\include{Reference/bibtex}
+
+\end{document}

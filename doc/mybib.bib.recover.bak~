@@ -1,0 +1,525 @@
+@electronic{1,
+	month   	= {Feburary},
+	year  	= {2012},
+	title      	= {26 Codegate 2012 - Vuln 500},
+	organization	= {Eindbazen},	
+	url        	= {https://eindbazen.net/2012/02/codegate-2012-vuln-500/}
+}
+
+@online{apachePatch,
+	title = "Apache httpd 2.4 vulnerabilities",
+	year = "2017",
+	month = "Sept.",
+	url = "https://httpd.apache.org/security/vulnerabilities_24.html",
+	lastaccessed = "Oct. 3, 2017",
+}
+
+@online{zypper,
+	title = "Using Zypper",
+	year = "2018",
+	month = "Apr.",
+	url = "https://www.suse.com/documentation/opensuse111/opensuse111_reference/data/sec_zypper.html",
+	lastaccessed = "Apr. 3, 2018",
+}
+
+@online{apt,
+	title = "aptitude user's manual",
+	year = "2018",
+	month = "Apr.",
+	url = "https://aptitude.alioth.debian.org/doc/en/",
+	lastaccessed = "Apr. 3, 2018",
+}
+
+@online{yum,
+	title = "Yum",
+	year = "2018",
+	month = "Apr.",
+	url = "http://yum.baseurl.org/",
+	lastaccessed = "Apr. 3, 2018",
+}
+
+@online{CryptoMove,
+	title = "CryptoMove",
+	year = "2018",
+	month = "Jan.",
+	url = "https://www.cryptomove.com/",
+	lastaccessed = "Mar. 23, 2018",
+}
+
+@online{morphisec,
+	title = "Morphisec",
+	year = "2018",
+	month = "Jan.",
+	url = "https://www.morphisec.com/",
+	lastaccessed = "Mar. 23, 2018",
+}
+
+@online{nmap,
+	title = "Nmap",
+	year = "2017",
+	month = "Jan.",
+	url = "https://nmap.org/",
+	lastaccessed = "May. 18, 2017",
+}
+
+@online{glances,
+	author = "Nicolas Hennion",
+	title = "Glances",
+	year = "2017",
+	month = "Jan.",
+	url = "http://glances.readthedocs.io/en/latest/",
+	lastaccessed = "May. 28, 2017",
+}
+
+@online{patch,
+	author = "Tara Seals",
+	title = "Companies Take an Average of 100-120 Days to Patch Vulnerabilities",
+	year = "2015",
+	month = "Oct.",
+	url = "https://www.infosecurity-magazine.com/news/companies-average-120-days-patch/",
+	lastaccessed = "Oct. 3, 2017",
+}
+
+@online{Upgaurd:USVoter,
+	author = "Dan O'Sullivan",
+	title = "The RNC Files: Inside the Largest US Voter Data Leak",
+	year = "2017",
+	month = "July",
+	url = "https://www.upguard.com/breaches/the-rnc-files",
+	lastaccessed = "Aug. 12, 2017",
+}
+
+
+@online{perlroth,
+	author = "Nicole Perlroth",
+	title = "Hackers Used New Weapons to Disrupt Major Websites Across U.S.",
+	year = "2017",
+	month = "July",
+	url = "https://www.nytimes.com/2016/10/22/business/internet-problems-attack.html?mcubz=3",
+	lastaccessed = "Aug. 1, 2017",
+}
+
+@online{netfilter:iptables,
+	title = "The netfilter.org iptbles project",
+	year = "2014",
+	month = "Jan.",
+	url = "http://www.netfilter.org/projects/iptables/index.html",
+	lastaccessed = "Aug. 1, 2017",
+}
+
+@online{ThreatStack:Upgrades,
+	author = "Sam Bisbee",
+	title = "It All Started With A Wager About System Upgrades",
+	year = "2016",
+	month = "March",
+	url = "https://blog.threatstack.com/it-all-started-with-a-wager-about-system-upgrades",
+	lastaccessed = "Sept. 2, 2017",
+}
+
+@online{abta,
+	title = "Data Security incident March 2017",
+	year = "2017",
+	month = "March",
+	url = "https://abta.com/news-and-views/news/data-security-incident-march-2017",
+	lastaccessed = "Sept. 1, 2017",
+}
+
+@online{cvss:Apache,
+	title = "Apache",
+	year = "2017",
+	month = "July",
+	url = "https://nvd.nist.gov/vuln/search/results?adv_search=true&form_type=advanced&results_type=overview&query=Apache&pub_date_start_month=0&pub_date_start_year=2017&pub_date_end_month=8&pub_date_end_year=2017",
+	lastaccessed = "Sept. 4, 2017",
+}
+
+@online{cvss:Nginx,
+	author = "US-CERT/NIST",
+	title = "Nginx",
+	year = "2017",
+	month = "July",
+	url = "https://nvd.nist.gov/vuln/search/results?adv_search=false&form_type=basic&results_type=overview&search_type=all&query=nginx1",
+	lastaccessed = "Sept. 4, 2017",
+}
+
+@online{3,
+	author = "Andrw O. Mellinger",
+	title = "Moving Target Defense",
+	year = "2016",
+	month = "November",
+	url = "http://www.sei.cmu.edu/podcasts/podcast_episode.cfm?episodeid=484471",
+	lastaccessed = "July 28, 2017",
+}
+
+@book{president2011,
+	title={TRUSTWORTHY CYBERSPACE: STRATEGIC PLAN FOR THE FEDERAL CYBERSECURITY RESEARCH A ND DEVELOPMENT PROGRAM},
+	institution={Executive Office of the President},
+	author={National Science and Technology Council},
+	year={2011},
+	pages={4}
+}
+
+@inproceedings{mcdaniel2014security,
+	title={Security and science of agility},
+	author={McDaniel, Patrick and Jaeger, Trent and La Porta, Thomas F and Papernot, Nicolas and Walls, Robert J and Kott, Alexander and Marvel, Lisa and Swami, Ananthram and Mohapatra, Prasant and Krishnamurthy, Srikanth V and others},
+	booktitle={Proceedings of the First ACM Workshop on Moving Target Defense},
+	pages={13--19},
+	year={2014},
+	organization={ACM}
+}
+
+@INPROCEEDINGS{7573301, 
+	author={M. Thompson and M. Mendolla and M. Muggler and M. Ike}, 
+	booktitle={2016 Resilience Week (RWS)}, 
+	title={Dynamic Application Rotation Environment for Moving Target Defense}, 
+	year={2016}, 
+	pages={17-26}, 
+	keywords={Internet;file servers;security of data;MTD strategies;Web server diversity;computer security;dynamic application rotation environment;moving target defense;proactive defense strategy;vulnerable Web server software;Fingerprint recognition;Operating systems;Ports (Computers);Resilience;Security;Web servers;Internet;computer hacking;computer security;cybersecurity;cyberspace;moving target defense;operating systems;platform diversity;proactive defense;resilience computer and control systems;robust systems;security;self-adaptive technologies}, 
+	doi={10.1109/RWEEK.2016.7573301}, 
+	month={Aug},}
+
+@INPROCEEDINGS{6682692, 
+	author={S. Vikram and Chao Yang and Guofei Gu}, 
+	booktitle={2013 IEEE Conference on Communications and Network Security (CNS)}, 
+	title={NOMAD: Towards non-intrusive moving-target defense against web bots}, 
+	year={2013}, 
+	volume={}, 
+	number={}, 
+	pages={55-63}, 
+	keywords={Internet;computer crime;hypermedia markup languages;CAPTCHA;HTML elements;HTTP form page;Magic Submitter;NOMAD;SENuke;Web bots;Web resource access;XRumer;attackers;illicit activities;nonintrusive moving-target defense system;open source Web platforms;Blogs;CAPTCHAs;HTML;Security;Servers;Social network services;Web pages}, 
+	doi={10.1109/CNS.2013.6682692}, 
+	ISSN={}, 
+	month={Oct},}
+
+@inproceedings{4,
+	author = {Koo, Hyungjoon and Polychronakis, Michalis},
+	title = {Juggling the Gadgets: Binary-level Code Randomization Using Instruction Displacement},
+	booktitle = {Proceedings of the 11th ACM on Asia Conference on Computer and Communications Security},
+	series = {ASIA CCS '16},
+	year = {2016},
+	isbn = {978-1-4503-4233-9},
+	location = {Xi'an, China},
+	pages = {23--34},
+	numpages = {12},
+	url = {http://doi.acm.org/10.1145/2897845.2897863},
+	doi = {10.1145/2897845.2897863},
+	acmid = {2897863},
+	publisher = {ACM},
+	address = {New York, NY, USA},
+	keywords = {code diversification, return-oriented programming},
+} 
+
+@inproceedings{Kargl:2001:PWS:371920.372148,
+	author = {Kargl, Frank and Maier, Joern and Weber, Michael},
+	title = {Protecting Web Servers from Distributed Denial of Service Attacks},
+	booktitle = {Proceedings of the 10th International Conference on World Wide Web},
+	series = {WWW '01},
+	year = {2001},
+	isbn = {1-58113-348-0},
+	location = {Hong Kong, Hong Kong},
+	pages = {514--524},
+	numpages = {11},
+	url = {http://doi.acm.org/10.1145/371920.372148},
+	doi = {10.1145/371920.372148},
+	acmid = {372148},
+	publisher = {ACM},
+	address = {New York, NY, USA},
+	keywords = {DDoS, Linux, class based routing, distributed denial of service attacks, web server security},
+} 
+
+@INPROCEEDINGS{1254308, 
+	author={G. Vigna and W. Robertson and Vishal Kher and R. A. Kemmerer}, 
+	booktitle={19th Annual Computer Security Applications Conference, 2003. Proceedings.}, 
+	title={A stateful intrusion detection system for World-Wide Web servers}, 
+	year={2003}, 
+	volume={}, 
+	number={}, 
+	pages={34-43}, 
+	keywords={Internet;Web sites;computer crime;file servers;Web-based applications;Web-based attacks;WebSTAT intrusion detection system;World-Wide Web servers;operating system-level audit data;server host;sophisticated attack languages;Application software;Computer hacking;Computer science;Event detection;Intrusion detection;Network servers;Performance analysis;Protection;Telecommunication traffic;Web server}, 
+	doi={10.1109/CSAC.2003.1254308}, 
+	ISSN={}, 
+	month={Dec},}
+
+@ARTICLE{1176986, 
+	author={Jun Xu and Wooyong Lee}, 
+	journal={IEEE Transactions on Computers}, 
+	title={Sustaining availability of Web services under distributed denial of service attacks}, 
+	year={2003}, 
+	volume={52}, 
+	number={2}, 
+	pages={195-208}, 
+	keywords={Web sites;cryptography;game theory;DDoS attacks;DDoS defense system;DDoS traffic;Internet;Web service availability;cryptographic techniques;distributed denial-of-service attacks;high-profile Web sites;resource provision;Analytical models;Availability;Bandwidth;Computer crime;Cryptography;Game theory;Protection;Tides;Web and internet services;Web services}, 
+	doi={10.1109/TC.2003.1176986}, 
+	ISSN={0018-9340}, 
+	month={Feb},}
+
+@ARTICLE{1514408, 
+	author={K. R. van Wyk and G. McGraw}, 
+	journal={IEEE Security Privacy}, 
+	title={Bridging the gap between software development and information security}, 
+	year={2005}, 
+	volume={3}, 
+	number={5}, 
+	pages={75-79}, 
+	keywords={security of data;software engineering;information security;software development;software security;technical security risk;Best practices;Computer bugs;Costs;Humans;Information security;Programming;Risk analysis;Software design;Software testing;System testing;BSI;building security in;infosec;softdev}, 
+	doi={10.1109/MSP.2005.118}, 
+	ISSN={1540-7993}, 
+	month={Sept},}
+
+@online{netcraft2018,
+	author = "Netcraft Ltd.",
+	title = "February 2018 Web Survey Survey",
+	year = "2018",
+	month = "February",
+	url = "https://news.netcraft.com/archives/2018/02/13/february-2018-web-server-survey.html",
+	lastaccessed = "April 18, 2018",
+}
+
+@online{netcraft2016,
+	author = "Netcraft Ltd.",
+	title = "December 2016 Web Server Survey",
+	year = "2016",
+	month = "December",
+	url = "https://news.netcraft.com/archives/2016/",
+	lastaccessed = "October 21, 2016",
+}
+
+@inproceedings{Jafarian:2012:ORH:2342441.2342467,
+	author = {Jafarian, Jafar Haadi and Al-Shaer, Ehab and Duan, Qi},
+	title = {Openflow Random Host Mutation: Transparent Moving Target Defense Using Software Defined Networking},
+	booktitle = {Proceedings of the First Workshop on Hot Topics in Software Defined Networks},
+	series = {HotSDN '12},
+	year = {2012},
+	isbn = {978-1-4503-1477-0},
+	location = {Helsinki, Finland},
+	pages = {127--132},
+	numpages = {6},
+	url = {http://doi.acm.org/10.1145/2342441.2342467},
+	doi = {10.1145/2342441.2342467},
+	acmid = {2342467},
+	publisher = {ACM},
+	address = {New York, NY, USA},
+	keywords = {ip mutation, moving target defense, security, software-defined networking},
+} 
+
+@Inbook{Evans2011,
+	author="Evans, David
+	and Nguyen-Tuong, Anh
+	and Knight, John",
+	editor="Jajodia, Sushil
+	and Ghosh, Anup K.
+	and Swarup, Vipin
+	and Wang, Cliff
+	and Wang, X. Sean",
+	title="Effectiveness of Moving Target Defenses",
+	bookTitle="Moving Target Defense: Creating Asymmetric Uncertainty for Cyber Threats",
+	year="2011",
+	publisher="Springer New York",
+	address="New York, NY",
+	pages="29--48",
+	isbn="978-1-4614-0977-9",
+	doi="10.1007/978-1-4614-0977-9_2",
+	url="https://doi.org/10.1007/978-1-4614-0977-9_2"
+}
+
+@INPROCEEDINGS{6642449, 
+	author={V. Casola and A. De Benedictis and M. Albanese}, 
+	booktitle={2013 IEEE 14th International Conference on Information Reuse Integration (IRI)}, 
+	title={A moving target defense approach for protecting resource-constrained distributed devices}, 
+	year={2013}, 
+	pages={22-29}, 
+	keywords={cryptography;wireless sensor networks;MTD;WSN;cyber attacks;fine-grained reconfiguration;moving target defense approach;resource-constrained distributed device protection;resource-constrained distributed devices;system attack surface;wireless sensor networks;Base stations;Cryptography;Protocols;Sensors;Software;Wireless sensor networks}, 
+	doi={10.1109/IRI.2013.6642449}, 
+	month={Aug},}
+
+@INPROCEEDINGS{6127486, 
+	author={M. Dunlop and S. Groat and W. Urbanski and R. Marchany and J. Tront}, 
+	booktitle={2011 - MILCOM 2011 Military Communications Conference}, 
+	title={MT6D: A Moving Target IPv6 Defense}, 
+	year={2011}, 
+	pages={1321-1326}, 
+	keywords={IP networks;computer network security;data privacy;protocols;IPv4;Internet protocol version 4;Internet protocol version 6;MT6D moving target IPv6 defense;network attacks;network layer;protocol stack;rotating addresses mid-session;target node;Cryptography;Internet;Logic gates;Privacy;Protocols;Prototypes;Receivers;IPv6;moving target defense;privacy;security}, 
+	doi={10.1109/MILCOM.2011.6127486}, 
+	ISSN={2155-7578}, 
+	month={Nov},}
+
+@INPROCEEDINGS{6623770, 
+	author={R. Zhuang and S. Zhang and A. Bardas and S. A. DeLoach and X. Ou and A. Singhal}, 
+	booktitle={2013 6th International Symposium on Resilient Control Systems (ISRCS)}, 
+	title={Investigating the application of moving target defenses to network security}, 
+	year={2013}, 
+	pages={162-169}, 
+	keywords={computer network security;MTD system;attack indicators;computer networks;moving target defense application;network configuration;network security;operational integrity;Adaptation models;Artificial intelligence;Engines;IP networks;Internet;Security;adaptive security;moving target;network security}, 
+	doi={10.1109/ISRCS.2013.6623770}, 
+	month={Aug},}
+
+@INPROCEEDINGS{6614155, 
+	author={Q. Jia and K. Sun and A. Stavrou}, 
+	booktitle={2013 22nd International Conference on Computer Communication and Networks (ICCCN)}, 
+	title={MOTAG: Moving Target Defense against Internet Denial of Service Attacks}, 
+	year={2013}, 
+	pages={1-9}, 
+	keywords={Internet;authorisation;computer network security;telecommunication traffic;DDoS attacks;Internet services;MOTAG;authenticated clients;client-to-proxy assignments;data traffic;distributed denial of service attacks;dynamic packet indirection proxies;greedy shuffling;innocent clients;legitimate clients;malicious insiders;moving target defense against Internet;protected servers;proxy re-allocations;service access;Authentication;Computer crime;Equations;IP networks;Mathematical model;Nickel;Servers}, 
+	doi={10.1109/ICCCN.2013.6614155}, 
+	ISSN={1095-2055}, 
+	month={July},}
+
+@ARTICLE{6798537, 
+	author={M. Carvalho and R. Ford}, 
+	journal={IEEE Security Privacy}, 
+	title={Moving-Target Defenses for Computer Networks}, 
+	year={2014}, 
+	volume={12}, 
+	number={2}, 
+	pages={73-76}, 
+	keywords={computer network security;MTD;computer network protection;moving-target defenses;security approach;static target;Complexity theory;Computer crime;Computer security;Cyberspace;Network security;Target tracking;MTD;attack;moving-target defense;system security;target}, 
+	doi={10.1109/MSP.2014.30}, 
+	ISSN={1540-7993}, 
+	month={Mar},}
+
+@INPROCEEDINGS{6682717, 
+	author={M. Albanese and A. De Benedictis and S. Jajodia and Kun Sun}, 
+	booktitle={2013 IEEE Conference on Communications and Network Security (CNS)}, 
+	title={A moving target defense mechanism for MANETs based on identity virtualization}, 
+	year={2013}, 
+	pages={278-286}, 
+	keywords={cryptography;mobile ad hoc networks;protocols;Sybil;attack surface;classical attack mechanism;cyber security;game-changers;identity virtualization;mobile ad hoc networks;network layer;novel defense mechanism;reconnaissance efforts;translation service;update protocol;virtual identity;Ad hoc networks;Peer-to-peer computing;Routing;Routing protocols;Security;Servers}, 
+	doi={10.1109/CNS.2013.6682717}, 
+	month={Oct},}
+
+@inproceedings{Vadlamudi:2016:MTD:2936924.2937168,
+	author = {Vadlamudi, Satya Gautam and Sengupta, Sailik and Taguinod, Marthony and Zhao, Ziming and Doup{\'e}, Adam and Ahn, Gail-Joon and Kambhampati, Subbarao},
+	title = {Moving Target Defense for Web Applications Using Bayesian Stackelberg Games: (Extended Abstract)},
+	booktitle = {Proceedings of the 2016 International Conference on Autonomous Agents \&\#38; Multiagent Systems},
+	series = {AAMAS '16},
+	year = {2016},
+	isbn = {978-1-4503-4239-1},
+	location = {Singapore, Singapore},
+	pages = {1377--1378},
+	numpages = {2},
+	url = {http://dl.acm.org/citation.cfm?id=2936924.2937168},
+	acmid = {2937168},
+	publisher = {International Foundation for Autonomous Agents and Multiagent Systems},
+	address = {Richland, SC},
+	keywords = {bayesian stackelberg games, cyber security, moving target defense, web applications},
+} 
+
+@inproceedings{John:2014:EBM:2598394.2605437,
+	author = {John, David J. and Smith, Robert W. and Turkett, William H. and Ca\~{n}as, Daniel A. and Fulp, Errin W.},
+	title = {Evolutionary Based Moving Target Cyber Defense},
+	booktitle = {Proceedings of the Companion Publication of the 2014 Annual Conference on Genetic and Evolutionary Computation},
+	series = {GECCO Comp '14},
+	year = {2014},
+	isbn = {978-1-4503-2881-4},
+	location = {Vancouver, BC, Canada},
+	pages = {1261--1268},
+	numpages = {8},
+	url = {http://doi.acm.org/10.1145/2598394.2605437},
+	doi = {10.1145/2598394.2605437},
+	acmid = {2605437},
+	publisher = {ACM},
+	address = {New York, NY, USA},
+	keywords = {computer security, directed mutation, moving target defense},
+} 
+
+@INPROCEEDINGS{7301020, 
+	author={M. Taguinod and A. Doupé and Z. Zhao and G. J. Ahn}, 
+	booktitle={2015 IEEE International Conference on Information Reuse and Integration}, 
+	title={Toward a Moving Target Defense for Web Applications}, 
+	year={2015}, 
+	pages={510-517}, 
+	keywords={Internet;security of data;MTD concept;Web applications;information asymmetry reduction;moving target defense;security ecosystem;Browsers;Databases;HTML;Layout;Operating systems;Web servers;Abstract Syntax Tree;Automated Conversion;Diversify;Layers;Moving;Randomize;Source Translation;Tiered;Web Software;Web applications}, 
+	doi={10.1109/IRI.2015.84}, 
+	month={Aug},}
+
+@inproceedings{zhuang2012simulation,
+	title={Simulation-based approaches to studying effectiveness of moving-target network defense},
+	author={Zhuang, Rui and Zhang, Su and Deloach, Scott A and Ou, Xinming and Singhal, Anoop},
+	booktitle={In National Symposium on Moving Target Research},
+	year={2012},
+	organization={Citeseer}
+}
+
+@inproceedings{colbaugh2011proactive,
+	title={Proactive defense for evolving cyber threats},
+	author={Colbaugh, Richard and Glass, Kristin},
+	booktitle={Intelligence and Security Informatics (ISI), 2011 IEEE International Conference on},
+	pages={125--130},
+	year={2011},
+	organization={IEEE}
+}
+
+@inproceedings{cox2006n,
+	title={N-variant systems: A secretless framework for security through diversity},
+	author={Cox, Benjamin and Evans, David and Filipi, Adrian and Rowanhill, Jonathan and Hu, Wei and Davidson, Jack and Knight, John and Nguyen-tuong, Anh and Hiser, Jason},
+	booktitle={In Proceedings of the 15th USENIX Security Symposium},
+	year={2006},
+	organization={Citeseer}
+}
+
+@INPROCEEDINGS{6900086, 
+	author={M. Thompson and N. Evans and V. Kisekka}, 
+	booktitle={2014 7th International Symposium on Resilient Control Systems (ISRCS)}, 
+	title={Multiple OS rotational environment an implemented Moving Target Defense}, 
+	year={2014}, 
+	pages={1-6}, 
+	keywords={operating systems (computers);security of data;CORE;CORE Impact Pro;MTD technique;Nmap;cyber-attacks mitigation;defensive strategies;manual penetration test;moving target defense;multiple OS rotational environment;operating systems;Availability;Fingerprint recognition;IP networks;Operating systems;Security;Servers;Testing;insert}, 
+	doi={10.1109/ISRCS.2014.6900086}, 
+	month={Aug},}
+
+@article{mtdSurveyNetworkSecurity,
+	author    = {Sailik Sengupta and
+	Ankur Chowdhary and
+	Abdulhakim Sabur and
+	Dijiang Huang and
+	Adel Alshamrani and
+	Subbarao Kambhampati},
+	title     = {A Survey of Moving Target Defenses for Network Security},
+	journal   = {CoRR},
+	volume    = {abs/1905.00964},
+	year      = {2019},
+	url       = {http://arxiv.org/abs/1905.00964},
+	archivePrefix = {arXiv},
+	eprint    = {1905.00964},
+	timestamp = {Mon, 27 May 2019 13:15:00 +0200},
+	biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1905-00964},
+	bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@INPROCEEDINGS{ddosSDN, 
+	author={J. {Steinberger} and B. {Kuhnert} and C. {Dietz} and L. {Ball} and A. {Sperotto} and H. {Baier} and A. {Pras} and G. {Dreo}}, 
+	booktitle={NOMS 2018 - 2018 IEEE/IFIP Network Operations and Management Symposium}, 
+	title={DDoS defense using MTD and SDN}, 
+	year={2018}, 
+	volume={}, 
+	number={}, 
+	pages={1-9}, 
+	keywords={computer network security;Internet;software defined networking;DDoS defense;MTD;network resources;proactive defense;Internet service providers;software defined networking;SDN;distributed large-scale cyber attack;computing resources;moving-target defense strategies;ISP;Cyberattack;Collaboration;High-speed networks;Web and internet services;Terminology}, 
+	doi={10.1109/NOMS.2018.8406221}, 
+	ISSN={2374-9709}, 
+	month={April},}
+
+@inproceedings{Chowdhary:mason,
+	author = {Chowdhary, Ankur and Alshamrani, Adel and Huang, Dijiang and Liang, Hongbin},
+	title = {MTD Analysis and Evaluation Framework in Software Defined Network (MASON)},
+	booktitle = {Proceedings of the 2018 ACM International Workshop on Security in Software Defined Networks \& Network Function Virtualization},
+	series = {SDN-NFV Sec'18},
+	year = {2018},
+	isbn = {978-1-4503-5635-0},
+	location = {Tempe, AZ, USA},
+	pages = {43--48},
+	numpages = {6},
+	url = {http://doi.acm.org/10.1145/3180465.3180473},
+	doi = {10.1145/3180465.3180473},
+	acmid = {3180473},
+	publisher = {ACM},
+	address = {New York, NY, USA},
+	keywords = {intrusion detection system (ids), moving target defense (mtd), software defined networking (sdn)},
+}
+
+@article{Hong2017OptimalNR,
+	title={Optimal Network Reconfiguration for Software Defined Networks Using Shuffle-Based Online MTD},
+	author={Jin B. Hong and Seunghyun Yoon and Hyuk Lim and Dong Seong Kim},
+	journal={2017 IEEE 36th Symposium on Reliable Distributed Systems (SRDS)},
+	year={2017},
+	pages={234-243}
+}

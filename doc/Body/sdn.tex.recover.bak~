@@ -1,0 +1,20 @@
+% Chapter 4: SDN
+\section{Proposal Phase II}
+\label{ch:proposal}
+%\chapter{ SDN and MTD} \label{sdn}
+Web servers \& sdn (no loss in availability) \\
+Web server sdn and containers (isolation to prevent network traversal) 
+
+The preliminary results from \gls{dim} demonstrated the limitations of using traditional firewall software as a MTD mechanism for web servers. \gls{sdn} has emerged as a driving factor in many \gls{mtd} solutions \cite{ddosSDN,Chowdhary:mason, Hong2017OptimalNR} \todo{add more citations}, due to the flexibility in network configurations and granular traffic control. These works have promising results that SDN could serve as the rotational mechanism between web servers. 
+
+based o the preliminary findings in \ref{dim}, I plan to conduct two additional phases in my research: 
+\begin{enumerate}
+	\item investigate alternative solutions & compare the results
+	\item investigate the minimum frequency & diversity required to thwart attacks 
+\end{enumerate}
+
+The initial study explained in section \ref{dim}, uses a traditional forwarding method to rotate between web servers. To study the feasibility of applying \gls{mtd} to web servers i plan to replicate the study with the following changes.
+
+\subsubsection{Consider the forwarding mechanism of \gls{sdn}}: The new solution should decrease the packet loss, thus minimize the impact on the user will experience. 
+
+\subsection{Consider isolating the web servers}: One observation in the \gls{dim} results (shown in section \ref{)
