@@ -6,6 +6,7 @@ This is template is designed to help make the formating process of the prelim ea
 ```
 prelim_template
 │   README.md   
+│   lit_review_worksheet.pdf   
 │
 └───doc 
     │   proposal.tex
@@ -27,13 +28,15 @@ prelim_template
     │───extras
     │   │───BST files
     │   │───STY files
-	  │	  │───images
+    |	│───images
     │
     │───preface
-        │   abstract.tex
-        │   titlepage.tex   
-        │   nomenclature.tex
-        │   bibtex.tex   
+    │   │   abstract.tex
+    │   │   titlepage.tex 
+    │
+    │───ref
+    	│   nomenclature.tex
+        │   bibtex.tex  
 
 ```
 ### Where to put images?
@@ -41,7 +44,7 @@ prelim_template
 prelim_template
 └───doc 
     │───extras
-		│   │───images
+    │   │───images
 ```
 
 ### Citations
